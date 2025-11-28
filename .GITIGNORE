@@ -12,3 +12,6 @@ __pycache__/
 *.swo
 # System files
 .DS_Store
+*.pyс
+secret.txt
+*.ini
